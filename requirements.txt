@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+tqdm
+tenacity
+tenacity
+rapidfuzz
+bibtexparser
